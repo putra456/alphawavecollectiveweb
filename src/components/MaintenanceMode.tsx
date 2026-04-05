@@ -74,7 +74,7 @@ const MaintenanceMode: React.FC = () => {
           {/* ─── Co Owners Section ─── */}
           <div className="mt-16">
             <p className="text-[10px] font-mono uppercase tracking-[0.25em] text-[#A7AEBF]/30 mb-10">
-              Co Owners
+              Staff
             </p>
 
             <div className="flex items-start justify-center gap-12 md:gap-20">
