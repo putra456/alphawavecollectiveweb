@@ -16,7 +16,7 @@ import {
 gsap.registerPlugin(ScrollTrigger);
 
 // Maintenance mode toggle - set to true to enable maintenance mode
-const IS_MAINTENANCE_MODE = true;
+const IS_MAINTENANCE_MODE = false;
 
 function App() {
   const [showMaintenance] = useState(IS_MAINTENANCE_MODE);
