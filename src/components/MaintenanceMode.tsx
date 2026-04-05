@@ -160,7 +160,7 @@ const MaintenanceMode: React.FC = () => {
                     PutraZach
                   </p>
                   <p className="text-[9px] text-[#A7AEBF]/40 font-mono uppercase tracking-[0.2em] mt-1">
-                    Co Owner
+                    Owner
                   </p>
                 </div>
               </div>
